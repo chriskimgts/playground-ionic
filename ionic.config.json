@@ -1,0 +1,7 @@
+{
+  "name": "playground-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
